@@ -5,6 +5,14 @@
 #### 📖 Knowledge and Interest areas :
 | Embedded Software Development | Blockchain      | dAPPs  |
 | ---------------               | --------------- | ------ |
+
+<p>
+📫 You can reach or connect with me:
+  Twitter : Cypherdot 🔺
+  
+  Email : ajperez502@gmail.com
+
+
 <!--
 **jsueprez/jsueprez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
