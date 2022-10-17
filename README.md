@@ -3,7 +3,7 @@
 
 
 #### 📖 Knowledge and Interest areas :
-| Embedded Software Development | Blockchain      | dAPPs  |
+| Embedded Software Development | C++ development     |  |
 | ---------------               | --------------- | ------ |
 
 <p>
