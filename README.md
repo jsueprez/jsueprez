@@ -3,12 +3,13 @@
 
 
 #### 📖 Knowledge and Interest areas :
-| Embedded Software Development | C++ development     |  |
-| ---------------               | --------------- | ------ |
+| Embedded Software Development | C++ development     
+| ---------------               | --------------- |
 
 <p>
   
 - 🔭 I’m currently working on some docu projects related to OOP.
+- 🌱 I’m currently learning Algorithms.
 
 <!--
 **jsueprez/jsueprez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
